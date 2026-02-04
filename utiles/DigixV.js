@@ -1,6 +1,4 @@
-
 import readline from 'readline'
-
 export default async function deployAsPremium(){
 
     const key = "D07895461fdgdrq3ez8aaeqQ"
